@@ -57,12 +57,11 @@ Due to size limitations, dataset and preprocessed files are hosted externally:
 ---
 
 ## 🤖 Trained Model
-Trained model files:
+The trained model is included in this repository using Git LFS.
 
-- deepfake_cnn_gru_model.keras  
-- deepfake_cnn_gru_model.weights.h5  
-
-🔗 (UPLOAD MODEL KE DRIVE, LALU TARUH LINK DI SINI)
+Available formats:
+- `deepfake_cnn_gru_model.keras`  
+- `deepfake_cnn_gru_model.weights.h5` 
 
 ---
 
